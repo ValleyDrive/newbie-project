@@ -2,9 +2,11 @@
 
 1. Introduction
 
-2. Main Paragraph
+2. Body Paragraph
+BP style01 - pink coral
+
 
 3. Conclusion
     No essays are written without a good and memorable conclusion :>
 
-    
+
