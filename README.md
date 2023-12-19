@@ -3,4 +3,6 @@
 1. Introduction
 So... how many styles are there?
 
-2. Main Paragraph
+Introstyle01 - green coral blue
+
+2. Body Paragraph
