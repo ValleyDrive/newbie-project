@@ -1,3 +1,5 @@
 # newbie-project
 
-Introduction
+1. Introduction
+
+2. Main Paragraph
