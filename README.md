@@ -1,9 +1,11 @@
 # newbie-project
 
 1. Introduction
+hat to do hmmm
+I dont know just focus!
+So.. how to captivate the audience?
+
 So... how many styles are there?
-
-
 Introstyle01 - green coral blue
 
 
@@ -16,6 +18,3 @@ BP style01 - pink coral
     No essays are written without a good and memorable conclusion :>
 
 Con style01 - black gold
-
-
-
